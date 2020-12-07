@@ -6,3 +6,4 @@ activities transition between different states in their lifecycles.
 
 The app shows different activity life cycle as a log message during debug mode while changing activity and clicking to increase number.
 
+![](acl1.PNG)
